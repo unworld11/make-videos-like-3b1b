@@ -49,7 +49,7 @@ def get_scene_from_groq(prompt: str) -> str:
         {
             "role": "user",
             "content": (
-                "Generate an extensive Manim code in the style of 3Blue1Brown that explains the "
+                "Generate an extensive ManimLib code in the style of 3Blue1Brown that explains the "
                 "following topic as if it were a multi-Scene video: \n\n"
                 f"{prompt}\n\n"
                 "The code must be fully self-contained and executable with Manim, and it should "
