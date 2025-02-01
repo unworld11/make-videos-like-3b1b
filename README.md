@@ -14,7 +14,7 @@ using streamlit as frontend because why not
 
 ## How to install
 clone the repository
-you will need to install manim or manimlib, i use ubuntu so using manimlib, change the system prompt as well
+you will need to install manimlib, i use ubuntu so using manimlib, change the system prompt as well
 install all the required libraries - streamlit,groq
 get a groq api key from groq playground - it's free
 
